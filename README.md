@@ -12,6 +12,11 @@ The repository contains all code based on an MVVM architecture with Swift and Sw
 * MapKit
 * @StateObject
 * @EnvironmentObject
+* Animations
+* Async Transitions
+* Map Annotation Pins
+* Sheets with DetailView
+* Responsive to iPhone and iPad (Light and Dark Mode)
 * MVVM Architecture
 * Good practices
 
