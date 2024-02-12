@@ -8,13 +8,19 @@
 import Foundation
 import MapKit
 
-struct Location{
-        
+struct Location: Identifiable{
+            
     let name: String
     let cityName: String
     let coordinates: CLLocationCoordinate2D
     let description: String
     let imageNames: [String]
     let link: String
+    
+    //To resolve a problem in this app without a Rest API, with two locations into de data source
+    //Identifiable
+    var id: String{
+        name + cityName
+    }
     
 }
