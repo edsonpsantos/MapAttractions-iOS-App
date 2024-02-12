@@ -10,6 +10,8 @@ The repository contains all code based on an MVVM architecture with Swift and Sw
 * Swift UI
 * Combine
 * MapKit
+* @StateObject
+* @EnvironmentObject
 * MVVM Architecture
 * Good practices
 
