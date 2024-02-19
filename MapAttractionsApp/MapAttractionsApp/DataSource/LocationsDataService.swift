@@ -33,6 +33,36 @@ class LocationsDataService {
                 "rome-pantheon-3",
             ],
             link: "https://en.wikipedia.org/wiki/Pantheon,_Rome"),
+        
+        Location(
+            name: "Most. Jerónimos",
+            cityName: "Lisbon",
+            coordinates: CLLocationCoordinate2D(latitude: 38.697778, longitude: -9.206667),
+            description: "The Monastery of Santa Maria de Belém , better known as Mosteiro dos Jerónimos , is a Portuguese monastery , built at the end of the 15th century by King Manuel I and was handed over to the Order of Saint Jerónimo . It is located in the parish of Belém , in the city and municipality of Lisbon . Since 2016, it has had the status of National Pantheon.",
+            imageNames: [
+                "mosteiro-jeronimos0",
+                "mosteiro-jeronimos1",
+                "mosteiro-jeronimos2",
+                "mosteiro-jeronimos3",
+                "mosteiro-jeronimos4",
+                "mosteiro-jeronimos5",
+            ],
+            link: "https://en.wikipedia.org/wiki/Jer%C3%B3nimos_Monastery"),
+        
+        Location(
+            name: "Pena Palace ",
+            cityName: "Sintra",
+            coordinates: CLLocationCoordinate2D(latitude: 38.787778, longitude: -9.390556),
+            description: "The Pena Palace (Portuguese: Palácio da Pena) is a Romanticist castle in São Pedro de Penaferrim, in the municipality of Sintra, on the Portuguese Riviera. The castle stands on the top of a hill in the Sintra Mountains above the town of Sintra, and on a clear day it can be easily seen from Lisbon and much of its metropolitan area.",
+            imageNames: [
+                "palacio-pena0",
+                "palacio-pena1",
+                "palacio-pena2",
+                "palacio-pena3",
+                "palacio-pena4",
+            ],
+            link: "https://en.wikipedia.org/wiki/Pena_Palace"),
+        
         Location(
             name: "Trevi Fountain",
             cityName: "Rome",
@@ -65,6 +95,8 @@ class LocationsDataService {
                 "paris-louvre-3",
             ],
             link: "https://en.wikipedia.org/wiki/Louvre"),
+        
+      
     ]
     
 }
