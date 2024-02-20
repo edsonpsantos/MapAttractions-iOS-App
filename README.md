@@ -21,12 +21,12 @@ The repository contains all code based on an MVVM architecture with Swift and Sw
 * Good practices
 
 ##  📱 App screens:
-![Screen1](https://github.com/edsonpsantos/images/blob/main/MapAttractions/image01.png)
-![Screen1](https://github.com/edsonpsantos/images/blob/main/MapAttractions/image02.png)
-![Screen1](https://github.com/edsonpsantos/images/blob/main/MapAttractions/image03.png)
-![Screen1](https://github.com/edsonpsantos/images/blob/main/MapAttractions/image04.png)
-![Screen1](https://github.com/edsonpsantos/images/blob/main/MapAttractions/image05.png)
-![Screen1](https://github.com/edsonpsantos/images/blob/main/MapAttractions/image06.mov)
+![Screen1](https://github.com/edsonpsantos/images/blob/main/MapAttractions/image1.png)
+![Screen1](https://github.com/edsonpsantos/images/blob/main/MapAttractions/image2.png)
+![Screen1](https://github.com/edsonpsantos/images/blob/main/MapAttractions/image3.png)
+![Screen1](https://github.com/edsonpsantos/images/blob/main/MapAttractions/image4.png)
+![Screen1](https://github.com/edsonpsantos/images/blob/main/MapAttractions/image5.png)
+![Screen1](https://github.com/edsonpsantos/images/blob/main/MapAttractions/image6.mov)
 
 
 ## Important note:
