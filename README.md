@@ -33,10 +33,6 @@ https://github.com/edsonpsantos/MapAttractions-iOS-App/assets/24628289/0e64664e-
 
 
 
-
-## Important note:
-🚀 This app is under development, so new features are being created daily.
-
 🙏🏽 Thanks for your attention! 
 
 
